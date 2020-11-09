@@ -16,6 +16,9 @@ game interface,
 from special spells,
 * do not count health bars of other game objects and visible monsters.
 
+## Used technologies
+**Python - cv2, numpy**
+
 ## My solution (example)
 
 ### Input 

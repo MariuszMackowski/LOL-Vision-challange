@@ -1,5 +1,5 @@
 
-# LOL Vision Challange by esportsLABgg
+# LOL Vision Challenge by esportsLABgg
 
 ## Task Details
 Main task is to write a script, which takes as input screens taken from League of Legends game replays, and
